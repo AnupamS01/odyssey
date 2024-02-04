@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "decode-uri-component": "^0.2.2",
-    "loader-utils": "https://github.com/AnupamAS0x1/test-sample",
+    "loader-utils": "^3.3.2",
     "nwsapi": "^2.2.1",
     "prompts": "^2.4.2"
   },
