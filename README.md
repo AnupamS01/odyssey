@@ -1,4 +1,4 @@
-# Odyssey Design System
+# Odyssey Design Systems
 
 Build and design consistent, efficient, and accessible UIs for all Okta users.
 
