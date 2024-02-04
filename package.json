@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "decode-uri-component": "^0.2.2",
-    "loader-utils": "0.0.1",
+    "loader-utils": "",
     "nwsapi": "^2.2.1",
     "prompts": "^2.4.2"
   },
