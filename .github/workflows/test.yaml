@@ -15,4 +15,4 @@ jobs:
       - name: Run gh API command
         run: gh api https://api.github.com/user
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
